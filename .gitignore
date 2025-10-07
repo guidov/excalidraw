@@ -1,10 +1,10 @@
 .DS_Store
 .env.development.local
 .env.local
-.env
 .env.production.local
 .env.test.local
 .envrc
+.env
 .eslintcache
 .history
 .idea
@@ -27,4 +27,6 @@ coverage
 dev-dist
 html
 meta*.json
-.claude
+docker-compose.override.yml
+CLAUDE.md
+.claude/
